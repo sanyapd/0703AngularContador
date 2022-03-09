@@ -1,0 +1,20 @@
+div{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    padding: 200px;
+    font-size: 50px;
+}
+h1{
+    align-items: center;
+    font-family: fantasy;
+}
+button{
+    font-size: 30px;
+}
+.cor {
+    color: rgb(184, 182, 182);
+ }
